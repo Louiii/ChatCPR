@@ -1,0 +1,45 @@
+{
+    "regular": {
+        "GPT-5 Nano": [34, 45, 54, 62, 73],
+        "Gemini-2.5 Flash": [35, 46, 57, 65, 76],
+        "DeepSeek Reasoner": [36, 47, 58, 83, 80],
+        "Claude Haiku 4.5": [48, 49, 59, 67, 82],
+        "GPT-5 Mini": [37, 51, 55, 63, 74],
+        "GPT-5": [41, 43, 56, 64, 75],
+        "Kimi K2 Thinking": [84, 85, 86, 87, 88],
+        "Mixed Companies": [38, 53, 60, 68, 79],
+        "Mixed Intelligence": [39, 50, 61, 69, 78]
+    },
+    "saboteur": {
+        "GPT-5 Saboteur": [91, 95, 99, 114, 107],
+        "Kimi K2 Thinking Saboteur": [92, 96, 121, 104, 122],
+        "DeepSeek Reasoner Saboteur": [93, 97, 123, 124, 109],
+        "Claude Haiku 4.5 Saboteur": [94, 120, 102, 106, 110]
+    },
+    "saboteur_with_snitches": {
+        "Kimi Saboteur with GPT-5 Mini Snitches": [172, 173, 174, 175, 176]
+    },
+    "bad_kimi_rollouts": {
+        "From start, no snitches": [184, 192, 200, 208, 216],
+        "From R2, no snitches": [177, 185, 193, 201, 209],
+        "From R4, no snitches": [178, 186, 194, 202, 210],
+        "From R6, no snitches": [179, 187, 195, 203, 211],
+        "From start, snitches": [183, 191, 199, 207, 215],
+        "From R2, snitches": [180, 188, 196, 204, 212],
+        "From R4, snitches": [181, 189, 197, 205, 213],
+        "From R6, snitches": [182, 190, 198, 206, 214]
+    },
+    "dummy_saboteur_with_snitches (5 rounds)": {
+        "Kimi Saboteur with GPT-5 Mini Snitches": [127, 128, 129, 130, 131]
+    },
+    "dummy_bad_kimi_rollouts": {
+        "From start, no snitches": [139, 147, 155, 163, 171],
+        "From R2, no snitches": [132, 140, 148, 156, 164],
+        "From R4, no snitches": [133, 141, 149, 157, 165],
+        "From R6, no snitches": [134, 142, 150, 158, 166],
+        "From start, snitches": [138, 146, 154, 162, 170],
+        "From R2, snitches": [135, 143, 151, 159, 167],
+        "From R4, snitches": [136, 144, 152, 160, 168],
+        "From R6, snitches": [137, 145, 153, 161, 169]
+    }
+}
