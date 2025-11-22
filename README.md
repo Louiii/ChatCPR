@@ -1,7 +1,7 @@
 # CPR Simulation with LLM Agents
 
 This repository accompanies the blog here:
-[https://loui.uk#AISafety](https://zeitwebsite.louis97r.vercel.app/index.html#AISafety)
+[https://loui.uk/AISafety](https://loui.uk/AISafety)
 
 
 ---
